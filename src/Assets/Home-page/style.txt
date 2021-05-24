@@ -1,0 +1,13 @@
+Orange-> FF3008
+Brown-> 4C302C
+Grey-> 6B6B6B
+
+(H1 1st fold)Roboto bold 55
+(2nd and remaing fold)Roboto Medium 50
+(sub heading)Roboto Medium 35
+paragraph Roboto regular 25
+
+form labels
+Roboto Medium 14
+
+footer 20 

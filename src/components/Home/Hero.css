@@ -1,0 +1,53 @@
+.Typography: {
+    fontFamily: [
+      'Roboto',
+    ].join(','),
+  }
+
+::before
+.h1{
+    position: absolute;
+height: 120px;
+left: 100px;
+right: 654px;
+top: 286px;
+
+width: 686px;
+
+align-items: auto;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 64px;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+
+}
+
+.p
+{
+position: absolute;
+height: 71px;
+left: 100px;
+right: 833px;
+top: 408px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #6B6B6B;}
+
+.img{
+  background-image: Components/src/assests/img/hero-section-img.png;
+  position: absolute;
+width: 1440px;
+height: 780px;
+left: 0px;
+top: 4px;
+
+}
